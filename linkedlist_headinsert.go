@@ -10,14 +10,17 @@ type node struct {
 }
 
 func insert(head *node, data int) *node {
-	n := &node{data: data}
-
-	if head == nil {
-		return n
-	} else {
-		n.next = head
-		return n
-	}
+	//n := &node{data: data}
+	n := &node{data, nil}
+	n.next = head
+	return n
+	/*
+		if head == nil {
+			return n
+		} else {
+			n.next = head
+			return n
+		}*/
 }
 func printList(head *node) {
 	for head != nil {
