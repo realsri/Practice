@@ -11,7 +11,7 @@ func main() {
 	/*
 	 * Can use aliases as above;
 	 * 'import "math"' and then 'math.rand' access wont work because
-	 * math/rand is a separate package (rand inside math folder),
-	 * not a rand member inside the math package.
+	 * 'math/rand' is a separate package ('rand' inside 'math' folder),
+	 * not a 'rand' member inside the 'math' package.
 	 */
 }
