@@ -10,7 +10,7 @@ The starting point, learn all the basics of the language.
 
 Declaring variables, calling functions, and all the things needed to know before moving to the next lessons.
 
-## Packages, variables, and functions - packages.go, imports.go, exported-names.go, 
+## Packages, variables, and functions - packages.go, imports.go, exported-names.go, functions.go, multiple-results.go, named-results.go
 Learn the basic components of any Go program.
 
 ## Flow control statements: for, if, else, switch and defer
