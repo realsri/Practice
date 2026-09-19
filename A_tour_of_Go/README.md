@@ -10,7 +10,7 @@ The starting point, learn all the basics of the language.
 
 Declaring variables, calling functions, and all the things needed to know before moving to the next lessons.
 
-## Packages, variables, and functions - packages.go, imports.go, exported-names.go, functions.go, multiple-results.go, named-results.go
+## Packages and functions and variables - packages.go, imports.go, exported-names.go and functions.go, multiple-results.go, named-results.go and variables.go, basic-types.go, type-conversions.go, constants.go
 Learn the basic components of any Go program.
 
 ## Flow control statements: for, if, else, switch and defer
@@ -43,4 +43,4 @@ This module goes over goroutines and channels, and how they are used to implemen
 Go provides concurrency constructions as part of the core language. This lesson presents them and gives some examples on how they can be used.
 
 
-Source: https://go.dev/tour/list
+Reference: https://go.dev/tour/list
